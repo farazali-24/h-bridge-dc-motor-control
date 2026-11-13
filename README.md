@@ -1,10 +1,23 @@
+
 # H-Bridge DC Motor Control
 
 Design, construction and testing of a MOSFET-based H-Bridge circuit for bidirectional DC motor control. The project explores transistor switching, pulse-width modulation (PWM), optical speed measurement and practical circuit implementation using breadboard and stripboard prototypes.
 
 ## Demo / Images
 
-Original circuit diagrams, laboratory photographs and oscilloscope measurements are available in the `docs/` folder.
+### H-Bridge Circuit Diagram
+
+<img src="docs/h-bridge-circuit.jpg" width="500" alt="Hand-drawn MOSFET H-Bridge circuit diagram">
+
+### H-Bridge Breadboard Prototype
+
+<img src="docs/h-bridge-breadboard.jpg" width="500" alt="H-Bridge breadboard prototype">
+
+### H-Bridge Stripboard Construction
+
+<img src="docs/h-bridge-stripboard.jpg" width="500" alt="H-Bridge stripboard construction">
+
+Additional circuit diagrams, construction photographs and experimental measurements are available in [Project Documentation](docs/README.md).
 
 ## Hardware
 
